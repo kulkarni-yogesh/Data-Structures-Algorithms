@@ -1,0 +1,73 @@
+1) 560. Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+
+2)238. Product of Array Except Self
+https://leetcode.com/problems/product-of-array-except-self/
+
+3)56. Merge Intervals
+https://leetcode.com/problems/merge-intervals/
+
+15. 3Sum
+https://leetcode.com/problems/3sum/ 
+
+34. Find First and Last Position of Element in Sorted Array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ 
+
+
+189. Rotate Array
+https://leetcode.com/problems/rotate-array/
+
+11. Container With Most Water
+https://leetcode.com/problems/container-with-most-water/ 
+
+209. Minimum Size Subarray Sum
+https://leetcode.com/problems/minimum-size-subarray-sum/
+
+1428. Leftmost Column with at Least a One
+https://leetcode.com/problems/leftmost-column-with-at-least-a-one/ 
+
+729. My Calendar I
+https://leetcode.com/problems/my-calendar-i/
+
+48. Rotate Image
+https://leetcode.com/problems/rotate-image/
+
+
+442. Find All Duplicates in an Array
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+289. Game of Life
+https://leetcode.com/problems/game-of-life/
+
+Number of subarrays with given product
+https://www.geeksforgeeks.org/number-subarrays-given-product/ 
+
+Minimum Lights to Activate
+https://www.interviewbit.com/problems/minimum-lights-to-activate/
+
+1053. Previous Permutation With One Swap
+https://leetcode.com/problems/previous-permutation-with-one-swap/
+
+
+621. Task Scheduler
+https://leetcode.com/problems/task-scheduler/
+
+
+154. Find Minimum in Rotated Sorted Array II
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
+4. Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+1. Next Smallest Permutation.
+
+253. Meeting Rooms II
+https://leetcode.com/problems/meeting-rooms-ii/
+
+48. Rotate Image
+https://leetcode.com/problems/rotate-image/
+
+209. Minimum Size Subarray Sum
+https://leetcode.com/problems/minimum-size-subarray-sum/solution/
+
+

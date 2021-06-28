@@ -1,0 +1,12 @@
+Searching
+1. Linear Search
+2. Binary Search
+3. Hashing
+
+Sorting
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Counting Sort
+5. Radix Sort
+6. Heap Sort

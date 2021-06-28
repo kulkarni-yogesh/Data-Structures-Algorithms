@@ -1,0 +1,58 @@
+1. Infix, Postfix, Prefix
+
+
+2. Infix to Postfix
+
+3. Next Greater Element
+https://leetcode.com/problems/next-greater-element-ii/
+
+4. Celebrity Problem
+https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/
+
+
+https://leetcode.com/problems/min-stack/
+
+
+
+https://leetcode.com/problems/online-stock-span/
+
+
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+
+
+https://leetcode.com/problems/trapping-rain-water/
+
+
+
+0. Delete Consecutive words 
+https://www.geeksforgeeks.org/delete-consecutive-words-sequence/
+
+
+1. Minimum Remove to Make Valid Parentheses
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
+
+2. Redundant Braces
+https://www.interviewbit.com/problems/redundant-braces/
+
+
+3. Decode String
+https://leetcode.com/problems/decode-string/
+
+
+4. Simplify Directory Path
+https://www.interviewbit.com/problems/simplify-directory-path/
+
+
+5. Basic Calculator
+https://leetcode.com/problems/basic-calculator/
+
+
+6. Balanced Parantheses
+https://www.interviewbit.com/problems/balanced-parantheses/
+
+
+7. Diff Between Nearest Left and Right Smaller Element
+https://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/
