@@ -172,6 +172,20 @@ public class TreeImplementation {
 		leftViewOfTree(current.left, level + 1);
 		leftViewOfTree(current.right, level + 1);
 	}
+	
+	public boolean hasPathSum(Node root, int targetSum) {
+        if(root == null){
+            return false;
+        }
+        targetSum -= root.value;
+        
+        if(root.left == null && root.right == null){
+            return targetSum == 0;
+            
+        }
+        return hasPathSum(root.left, targetSum) || hasPathSum(root.right, targetSum);
+        
+    }
 
 	public static void main(String[] args) {
 		root = new Node(10);
